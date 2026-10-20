@@ -1,0 +1,17 @@
+# Insulin and C-Peptide
+#bpt/endocrinology #bpt/fracprac
+- - -
+This patient has developed hypoglycaemia with suppression of her 3betaHydroxybutyrate (a ketone), elevated insulin yet suppressed C-peptide.
+This would suggest that there is insulin induced hypoglycaemia and as C-peptide is suppressed indicates exogenous administration of insulin.
+Sulphonylureas would produce raised insulin and C-peptides and could be assessed in suspicious cases by measuring a sulphonylurea concentration.
+Insulinoma would be associated with proportionately elevated insulin and C-peptide.
+To answer this type of question, you would need to understand the relationship between insulin levels and C-peptide:
+Insulin and C-peptide are two substances produced by the pancreas in the process of synthesizing and releasing insulin. Understanding their relationship can help in diagnosing certain pancreatic conditions, particularly insulinomas and diabetes.
+Insulin is a hormone responsible for regulating blood sugar levels by facilitating the uptake of glucose from the bloodstream into cells, where it’s used for energy. Insulin is produced in pancreatic beta cells and released in response to elevated blood sugar levels (after a meal, for instance).
+C-peptide is a byproduct generated during the production of insulin. When proinsulin (the precursor to insulin) is split into its active components, insulin and C-peptide are released in EQUAL amounts into the bloodstream.
+In clinical settings, the measurement of insulin and C-peptide levels can provide valuable information:
+1. Insulin Levels: Elevated insulin levels in the blood, especially in the presence of hypoglycemia (low blood sugar levels), suggest an excessive release of insulin, which can occur in conditions like insulinomas—pancreatic tumors that produce insulin uncontrollably. High insulin levels and low blood sugar levels together can indicate an abnormality in insulin secretion.
+2. C-peptide Levels: C-peptide levels are also used to evaluate insulin production. Since insulin and C-peptide are released in equal amounts during insulin synthesis, measuring C-peptide levels can indirectly reflect endogenous insulin production. In conditions like insulinomas, where there’s excessive insulin release, C-peptide levels might also be elevated.
+However, in some cases of insulinoma or exogenous insulin administration (like in cases of insulin overdose), insulin levels can be artificially high while C-peptide levels might not increase accordingly. This discrepancy can help differentiate between endogenous (produced by the body) and exogenous (administered externally) sources of insulin.
+In diabetes management, measuring both insulin and C-peptide levels can aid in distinguishing between type 1 and type 2 diabetes. In type 1 diabetes, where there’s a lack of endogenous insulin production due to autoimmune destruction of pancreatic beta cells, both insulin and C-peptide levels are low. In contrast, in type 2 diabetes, insulin levels may be normal or elevated, while C-peptide levels might be higher due to the body’s resistance to insulin, requiring higher levels of insulin production.
+Overall, the measurement of insulin and C-peptide levels and their ratio can provide valuable insights into pancreatic function, insulin production, and certain conditions affecting insulin secretion.

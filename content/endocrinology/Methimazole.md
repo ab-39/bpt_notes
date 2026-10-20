@@ -1,0 +1,8 @@
+# Methimazole
+#bpt/endocrinology #bpt/fracprac
+- - -
+Methimazole is a medication that is commonly used to treat hyperthyroidism, which is a condition characterized by excessive production of thyroid hormones. Methimazole is typically avoided during pregnancy, particularly during the first trimester, due to the risk of fetal abnormalities.
+One potential adverse effect of methimazole use during pregnancy is the development of a scalp defect in the fetus known as aplasia cutis congenita. Aplasia cutis congenita is a rare condition in which there is partial or complete absence of skin on the scalp, which can lead to a visible defect or bald spot.
+The exact mechanism by which methimazole causes aplasia cutis congenita is not fully understood. It is thought to be related to the medication’s ability to cross the placenta and interfere with the developing fetus’s thyroid gland. This can result in a decrease in thyroid hormone production, which is important for normal skin development in the fetus.
+Additionally, methimazole has been shown to have a direct toxic effect on fetal skin cells in animal studies, which could also contribute to the development of aplasia cutis congenita.
+Overall, the use of methimazole during pregnancy should be carefully considered, and alternative treatments may be necessary to manage hyperthyroidism in pregnant women. Pregnant women with hyperthyroidism should discuss treatment options with their healthcare provider to determine the best course of action for their individual situation.

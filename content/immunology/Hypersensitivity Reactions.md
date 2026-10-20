@@ -1,0 +1,11 @@
+# Hypersensitivity Reactions
+#bpt/immunology #bpt/racp_cls
+- - -
+### Overview
+_Hypersensitivity_ is a memory response that causes objectively reproducible symptoms or signs, initiated by exposure to a defined stimulus at a dose tolerated by normal subjects. _Allergy_ is a subset of hypersensitivity that is mediated by immunological mechanisms. Allergic hypersensitivity reactions fall into four classes based on the Gell and Coombs classification:
+|                   | [[TYPE I HYPERSENSITIVITY]]                                  | [[TYPE II HYPERSENSITIVITY]]                                 | [[TYPE III HYPERSENSITIVITY]]                                | [[TYPE IV HYPERSENSITIVITY]]                                 |
+|-------------------|--------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|
+| _Name_            | Immediate                                                    | Cytotoxic                                                    | Immune Complex                                               | Delayed                                                      |
+| *Mediated by*     | IgE antibodies                                               | IgG and IgM antibodies                                       | IgG antibodies                                               | Presensitised T-cells                                        |
+| *Pathophysiology* | IgE on mast cells and basophils are crosslinked by binding to antigen, leading to degranulation | Multiple including complement activation, opsonisation, cell cytotoxicity, and direct effects | IgGs bind antigen, leading to immune complexes which deposit in tissues and activate complement and attract neutrophils | CD4+: release cytokines and activate macrophages<br>CD8+: direct cytotoxicity<br> |
+| *Examples*        | Anaphylaxis, food allergies, insect venom allergies<br>      | Haemolytic anaemias (ITP, AIHA, haemolytic disease of the newborn), anti-GBM, rheumatic fever, Grave disease, bullous pemphigoid, MG | Bird fancier’s lung, PAN, PSGN, IgAN<br>                     | Acute and chronic transplant rejection, GVHD, contact dermatitis, Mantoux test, SJS, TEN, DRESS, MS |

@@ -1,0 +1,52 @@
+# The HIV Long Case
+#bpt/clinical
+- - -
+### Key Points:
+- U = U:
+  - Serum HIV RNA <200c/mL -> cannot transmit the virus horizontally _or_ vertically
+- ART should be initiated as early as possible, _except_:
+  - If an opportunistic infection is the reason why the patient is diagnosed
+  - Especially cryptococcal meningitis or CNS TB, in which case weeks of treatment may be required 
+- Treatment is lifelong
+- Need to know:
+  - Genotype at diagnosis
+  - CD4+ count at diagnosis (marker of time to diagnosis)
+  - HLA-B57*01 status
+- IRIS:
+  - Paradoxical worsening of a pre-existing infectious process following the initiation of ART
+  - As the immune system is restored, it begins to recognise foreign pathogens -> inflammation ensues
+  - Common with mycobacterial infections, cryptococcus, CMV, and VZV
+  - Can occur with occult infections(!) 
+- Opportunistic infection primary prophylaxis:
+  - If CD4+/µL <200:
+    - TMP-SMX for PJP and toxoplasmosis
+    - Can cease after three months of CD4+/µL  >200
+  - If CD4+/µL <75:
+    - Azithromycin for MAC 
+- Secondary prophylaxis may sometimes be indicated, particularly following specific infections until a CD4+ count greater than 200cells/µL has been maintained for >6m: 
+  - Cryptococcal meningitis -> fluconazole
+  - CMV disease -> valganciclovir
+  - Specific antimicrobials 
+- Common initial regimens:
+  - Bictegravir + tenofovir alafenamide + emtricitabine = Biktarvy
+  - Abacavir + lamivudine + dolutegravir = Triumeq
+    - **Must** test HLA-B57*01 gene
+  - Dolutegravir + TAF/FTC (Descovy) 
+  - Dolutegravir + lamivudine 
+- Reasons to switch ART:
+  - Simplification of regimen
+  - Enhance tolerability - due to acute or chronic toxicity
+  - Prevent or mitigate drug-drug interactions
+  - Eliminate food requirements (e.g. rilpirivine)
+  - Allow optimal ART use during pregnancy
+  - Reduce costs
+- ART toxicities/comorbidities:
+  - Toxicities:
+    - FBE, UEC, LFTs - ~q6-12/12
+    - Urine ACR/PCR annually
+    - If on TDF -> CMP + urinary PCR also (risk of Fanconi syndrome)
+  - CVRFs
+  - Osteoporosis - FRAXX score, DXA scan
+  - Cancer screening
+  - BBV screening 
+- - -
