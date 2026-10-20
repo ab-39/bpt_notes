@@ -1,8 +1,8 @@
 # Welcome
-## These are my private BPT study notes compiled in 2025 when I sat the exam.
-## They are not maintained, and are not intended to be up-to-date at any point after October 2025.
-## They were written in the spirit of being notes for my private use, and not for public viewing.
-## As far as possible, I have endeavoured to use neutral and polite language, although occasional outdated terms may be present.
-## This is not intended with a view to demean or discriminate against anybody, but is likely more reflective of the resources on which I drew to make these notes.
-## If you do find something grossly incorrect or egregious to have slipped through, please feel free to reach out to me on <feedback.monthly929@passmail.com>.
-## Otherwise, enjoy, and good luck for your exam!
+### These are my private BPT study notes compiled in 2025 when I sat the exam.
+### They are not maintained, and are not intended to be up-to-date at any point after October 2025.
+### They were written in the spirit of being notes for my private use, and not for public viewing.
+### As far as possible, I have endeavoured to use neutral and polite language, although occasional outdated terms may be present.
+### This is not intended to demean or discriminate against anybody, but is likely more reflective of the resources on which I drew to make these notes.
+### If you do find something grossly incorrect or egregious to have slipped through, please feel free to reach out to me on <feedback.monthly929@passmail.com>.
+### Otherwise, enjoy, and good luck for your exam!
